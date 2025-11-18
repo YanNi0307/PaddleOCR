@@ -26,6 +26,12 @@ PP-OCRv5_rec 是新一代文本识别模型。该模型致力于以单一模型�
 **下载链接：**  
 [推理模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/PP-OCRv5_server_rec_infer.tar) | [训练模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/PP-OCRv5_server_rec_pretrained.pdparams)
 
+[Hugging Face](https://huggingface.co/PaddlePaddle/PP-OCRv5_server_rec  )
+
+[ModelScope](https://www.modelscope.cn/models/PaddlePaddle/PP-OCRv5_server_rec  )
+
+[AI Studio](https://aistudio.baidu.com/modelsdetail/31909  )
+
 ---
 
 ### 📱📱 PP-OCRv5_mobile_rec
@@ -41,6 +47,12 @@ PP-OCRv5_rec 是新一代文本识别模型。该模型致力于以单一模型�
 
 **下载链接：**  
 [推理模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/PP-OCRv5_mobile_rec_infer.tar) | [训练模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/PP-OCRv5_mobile_rec_pretrained.pdparams)
+
+[Hugging Face](https://huggingface.co/PaddlePaddle/PP-OCRv5_mobile_rec)
+
+[ModelScope](https://www.modelscope.cn/models/PaddlePaddle/PP-OCRv5_mobile_rec)
+
+[AI Studio](https://aistudio.baidu.com/modelsdetail/31872)
 
 ---
 
@@ -58,6 +70,12 @@ PP-OCRv4_server_rec_doc是在PP-OCRv4_server_rec的基础上，在更多中文�
 **下载链接：**  
 [推理模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/PP-OCRv4_server_rec_doc_infer.tar) | [训练模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/PP-OCRv4_server_rec_doc_pretrained.pdparams)
 
+[Hugging Face](https://huggingface.co/PaddlePaddle/PP-OCRv4_server_rec_doc)
+
+[ModelScope](https://www.modelscope.cn/models/PaddlePaddle/PP-OCRv4_server_rec_doc)
+
+[AI Studio](https://aistudio.baidu.com/modelsdetail/31859)
+
 ---
 
 ### 📱📱 PP-OCRv4_mobile_rec
@@ -73,6 +91,12 @@ PP-OCRv4的轻量级识别模型，推理效率高，可以部署在包含端侧
 
 **下载链接：**  
 [推理模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/PP-OCRv4_mobile_rec_infer.tar) | [训练模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/PP-OCRv4_mobile_rec_pretrained.pdparams)
+
+[Hugging Face](https://huggingface.co/PaddlePaddle/PP-OCRv4_server_rec_doc)
+
+[ModelScope](https://www.modelscope.cn/models/PaddlePaddle/PP-OCRv4_server_rec_doc)
+
+[AI Studio](https://aistudio.baidu.com/modelsdetail/31859)
 
 ---
 
@@ -90,7 +114,17 @@ PP-OCRv4的服务器端模型，推理精度高，可以部署在多种不同的
 **下载链接：**  
 [推理模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/PP-OCRv4_server_rec_infer.tar) | [训练模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/PP-OCRv4_server_rec_pretrained.pdparams)
 
+
+[Hugging Face](https://huggingface.co/PaddlePaddle/PP-OCRv4_server_rec) 
+
+[ModelScope](https://www.modelscope.cn/models/PaddlePaddle/PP-OCRv4_server_rec) 
+
+[AI Studio](https://aistudio.baidu.com/modelsdetail/31931) 
+
+
 ---
+
+
 
 ### 🌐🌐 en_PP-OCRv4_mobile_rec
 **模型类型：** 推理模型/训练模型 | **模型存储大小：** 7.5 MB  
@@ -105,6 +139,12 @@ PP-OCRv4的服务器端模型，推理精度高，可以部署在多种不同的
 
 **下载链接：**  
 [推理模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/en_PP-OCRv4_mobile_rec_infer.tar) | [训练模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/en_PP-OCRv4_mobile_rec_pretrained.pdparams)
+
+[Hugging Face](https://huggingface.co/PaddlePaddle/PP-OCRv4_mobile_rec)
+
+[ModelScope](https://www.modelscope.cn/models/PaddlePaddle/PP-OCRv4_mobile_rec)
+
+[AI Studio](https://aistudio.baidu.com/modelsdetail/31914)
 
 ---
 
@@ -127,6 +167,12 @@ SVTRv2 是一种由复旦大学视觉与学习实验室（FVL）的OpenOCR团队
 **下载链接：**  
 [推理模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/ch_SVTRv2_rec_infer.tar) | [训练模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/ch_SVTRv2_rec_pretrained.pdparams)
 
+[Hugging Face](https://huggingface.co/PaddlePaddle/ch_svTRv2_rec) 
+
+[ModelScope](https://www.modelscope.cn/models/PaddlePaddle/ch_svTRv2_rec) 
+
+[AI Studio](https://aistudio.baidu.com/modelsdetail/31887)
+
 ---
 
 ### 🏆🏆 ch_RepSVTR_rec
@@ -143,6 +189,12 @@ RepSVTR 文本识别模型是一种基于SVTRv2 的移动端文本识别模型�
 **下载链接：**  
 [推理模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/ch_RepSVTR_rec_infer.tar) | [训练模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/ch_RepSVTR_rec_pretrained.pdparams)
 
+[Hugging Face](https://huggingface.co/PaddlePaddle/ch_RepSVTR_rec) 
+
+[ModelScope](https://www.modelscope.cn/models/PaddlePaddle/ch_RepSVTR_rec) 
+
+[AI Studio](https://aistudio.baidu.com/modelsdetail/31899) 
+
 ---
 
 ### 🌐🌐 en_PP-OCRv5_mobile_rec
@@ -157,6 +209,12 @@ RepSVTR 文本识别模型是一种基于SVTRv2 的移动端文本识别模型�
 
 **下载链接：**  
 [推理模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/en_PP-OCRv5_mobile_rec_infer.tar) | [训练模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/en_PP-OCRv5_mobile_rec_pretrained.pdparams)
+
+[Hugging Face](https://huggingface.co/PaddlePaddle/en_PP-OCRv5_mobile_rec) 
+
+[ModelScope](https://www.modelscope.cn/models/PaddlePaddle/en_PP-OCRv5_mobile_rec)
+
+[AI Studio](https://aistudio.baidu.com/modelsdetail/33810) 
 
 ---
 
@@ -174,6 +232,12 @@ RepSVTR 文本识别模型是一种基于SVTRv2 的移动端文本识别模型�
 **下载链接：**  
 [推理模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/korean_PP-OCRv5_mobile_rec_infer.tar) | [训练模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/korean_PP-OCRv5_mobile_rec_pretrained.pdparams)
 
+[Hugging Face](https://huggingface.co/PaddlePaddle/korean_PP-OCRv5_mobile_rec) 
+
+[ModelScope](https://www.modelscope.cn/models/PaddlePaddle/korean_PP-OCRv5_mobile_rec) 
+
+[AI Studio](https://aistudio.baidu.com/modelsdetail/31927)
+
 ---
 
 ### 🌐🌐 latin_PP-OCRv5_mobile_rec
@@ -189,6 +253,12 @@ RepSVTR 文本识别模型是一种基于SVTRv2 的移动端文本识别模型�
 
 **下载链接：**  
 [推理模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_inference_model/paddle3.0.0/latin_PP-OCRv5_mobile_rec_infer.tar) | [训练模型](https://paddle-model-ecology.bj.bcebos.com/paddlex/official_pretrained_model/latin_PP-OCRv5_mobile_rec_pretrained.pdparams)
+
+[Hugging Face](https://huggingface.co/PaddlePaddle/latin_PP-OCRv5_mobile_rec) 
+
+[ModelScope](https://www.modelscope.cn/models/PaddlePaddle/latin_PP-OCRv5_mobile_rec) 
+
+[AI Studio](https://aistudio.baidu.com/modelsdetail/31861  )
 
 ---
 
